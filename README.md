@@ -3,7 +3,7 @@
 
 ## Description
 
-HW for bootcamp
+This is for bootcamp
 
 ## Table of Contents 
 
@@ -27,13 +27,13 @@ npm i
 
 ## Usage
 
-Nothing
+None
 
 
   
 ## Contributing
 
-Nothing
+None
 
 ## Tests
 
